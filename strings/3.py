@@ -2,3 +2,4 @@
 # If the strinf length is less than 2, return instead of empty string.
 
 def new_string(string):
+
